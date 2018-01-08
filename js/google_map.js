@@ -97,7 +97,8 @@ function init() {
         "lightness": 49
     }]
 },        {elementType: 'geometry', stylers: [{color: '#3f95ea'}]},
-            {elementType: 'labels.text.stroke', stylers: [{color: '#3f95ea'}]},
+{elementType: 'geometry', stylers: [{color: '#242f3e'}]},
+            {elementType: 'labels.text.stroke', stylers: [{color: '#242f3e'}]},
             {elementType: 'labels.text.fill', stylers: [{color: '#746855'}]},
             {
               featureType: 'administrative.locality',
