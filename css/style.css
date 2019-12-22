@@ -8371,6 +8371,11 @@ textarea.form-control {
     height: 400px;
     margin-bottom: 30px; } }
 
+
+.ftco-section-dashboard{
+  padding: 3em 0 !important;
+}
+
 .ftco-section {
   position: relative;
   width: 100%;
@@ -8996,14 +9001,48 @@ textarea.form-control {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%); }
 
-
+.table .thead-dark th {
+    color: #fff;
+    background-color: #212529;
+    border-color: #32383e;
+    padding: 10px 0px;
+}
 .oi:empty:before {
     width: 1em;
     text-align: center;
     box-sizing: content-box;
     color: #170041 !important;
 }
+.join-button{
+  background-color: #22d47b !important;
+  padding: 5px 30px !important;
+  border-radius: 30px;
+  color: #fff;
+}
+.table th {
+    padding: 10px 0px;
+    color: #170041;
+}
 
+.card{
+  padding: 20px;
+  margin-top:40px;
+  box-shadow: 0 0 20px 0 rgba(31,45,61,.05);
+  border: none !important;
+}
+.table{
+  font-size: 14px;
+
+}
+.iframe{
+  width: 100%;
+  height:600px;
+  margin-top: 30px;
+  border: 0px !important;
+}
+.heading-section-dashboard{
+  text-align: left !important;
+}
 .subscribe-form .form-group {
   position: relative;
   margin-bottom: 0; }
